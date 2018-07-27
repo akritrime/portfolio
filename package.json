@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "0.0.1",
+  "description": "portfolio experiments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akritrime/portfolio.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "akritrime",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akritrime/portfolio/issues"
+  },
+  "homepage": "https://github.com/akritrime/portfolio#readme"
+}
